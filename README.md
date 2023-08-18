@@ -7,14 +7,15 @@ This project contains the report I made for Internal Security Audit on a fiction
 This project contains the Report I made while performing a internal security audit on a fictional company called **Botium Toys** as a part of completing the **Google Cybersecurity Professional Certificate** from coursera.
 
 Coursera link for Audit Portfolio Assessment:
-https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit-part-1
-https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit-part-2
+
+- https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit-part-1
+- https://www.coursera.org/learn/manage-security-risks/exam/TMBj8/portfolio-activity-conduct-a-security-audit-part-2
 
 PS: You'll need to have access to the course which you can get by taking trial for seven days or paying $49 for monthly subscription or by applying for financial aid on the course.
 
 ## Project Result
 
-[Internal Security Audit Report Report.docx](/Internal Security Audit Report Report.docx)
+[Internal Security Audit Report Report.docx](/Internal-Security-Audit-Report-Report.docx)
 
 ## Project walkthrough
 
