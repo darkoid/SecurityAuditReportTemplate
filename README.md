@@ -15,7 +15,9 @@ PS: You'll need to have access to the course which you can get by taking trial f
 
 ## Project Result
 
-[Internal Security Audit Report Report.docx](/Internal-Security-Audit-Report-Report.docx)
+[To view the file on google docs click here](https://docs.google.com/document/d/12YKxlBsTcnlz98Mb4HpPT7dXDbXN_K0LjAgecsTfRLI/edit?usp=drive_link)
+
+To download click here - [Internal Security Audit Report Report.docx](/Internal-Security-Audit-Report-Report.docx)
 
 ## Project walkthrough
 
